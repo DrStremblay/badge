@@ -1,0 +1,12 @@
+UPDATE 9. November 2026
+
+1. Entpacke die ZIP-Datei.
+2. Öffne GitHub: https://github.com/DrStremblay/badge
+3. Lade mindestens die neue index.html und den Ordner assets hoch und ersetze die vorhandene index.html.
+4. Die Sprachauswahl funktioniert jetzt vollständig innerhalb der index.html über ?lang=de beziehungsweise ?lang=fr – kein /de/- oder /fr/-Ordner erforderlich.
+5. Für zusätzliche indexierbare Sprach-URLs können auch die Ordner de/ und fr/ hochgeladen werden (jeweils index.html).
+6. CNAME nicht löschen; Hauptdomain sebastientremblay.eu unverändert lassen.
+7. Impressum und Datenschutz sind vorläufige ENTWÜRFE: NN-Anschrift und andere Pflichtangaben vor Veröffentlichung ergänzen und rechtlich prüfen.
+8. Forschungsabstracts sind redaktionelle Zusammenfassungen öffentlicher Forschungsschwerpunkte; von Sébastien vor Veröffentlichung gegenlesen lassen.
+
+Die Seite nutzt keine externen Google Fonts oder Analyse-/Werbetracker. GitHub verarbeitet technisch notwendige Verbindungsdaten.
